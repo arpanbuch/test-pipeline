@@ -7,7 +7,6 @@ public class PipeLineTest {
 	@Test
 	public void testMe() {
 
-		System.out.println("RUN");
+		System.out.println("RUN ME");
 	}
-
 }
