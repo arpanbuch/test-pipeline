@@ -15,4 +15,10 @@ public class PipeLineTest {
 		logger.info("INFO");
 		logger.error("ERROR");
 	}
+	
+	@Test
+	public void getMeUrl(){
+		
+	}
+	
 }
