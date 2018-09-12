@@ -1,0 +1,6 @@
+pipleline{
+
+parameters{
+string{defaultValue:"http://localhost:8080", description:"Url", name:"Url"}
+	}
+}
